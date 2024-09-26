@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jenifer Rajendren , Lead Engineer come Programming Youtuber(Let Us Code Together)
+- 👋 Hi, I’m Jenifer Rajendren , Architect come Programming Youtuber(Let Us Code Together)
 - 👀 I’m interested in learning and playing around new things in Tech Programming
 - 🌱 I’m currently building/developing product in C++, HTML, CSS, JScript Stack
 - 💞️ I’m looking to dwelve more on data structures and algorithms
